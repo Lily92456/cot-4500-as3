@@ -1,0 +1,2 @@
+Using the library numpy for the assignment.
+Using the unit test in the test script.
